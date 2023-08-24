@@ -23,7 +23,13 @@ class ToDoList:
 def main():
     todo_list = ToDoList()
 
-   
+    while True:
+        options_data = [
+            ["1", "Add Task"],
+            ["2", "Mark Task as Completed"],
+            ["3", "Show Tasks"],
+            ["4", "Exit"]
+        ]
 
       
 
