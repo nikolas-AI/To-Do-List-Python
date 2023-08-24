@@ -47,6 +47,8 @@ def main():
             todo_list.mark_completed(task_index)
             print("Task marked as completed!")
 
+        elif choice == "3":
+            todo_list.show_tasks()
 
        
 
