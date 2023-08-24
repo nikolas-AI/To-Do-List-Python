@@ -34,7 +34,7 @@ def main():
         headers = ["Option", "Description"]
         print(tabulate(options_data, headers=headers, tablefmt="rounded_grid"))
 
-     
+        choice = input("Choose an option: ")
 
     
 
