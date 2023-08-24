@@ -50,7 +50,9 @@ def main():
         elif choice == "3":
             todo_list.show_tasks()
 
-       
+        elif choice == "4":
+            print("Goodbye!")
+            break
 
        
 
