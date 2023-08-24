@@ -41,7 +41,11 @@ def main():
             todo_list.add_task(task)
             print("\nTask added!")
 
-       
+        elif choice == "2":
+            todo_list.show_tasks()
+            task_index = int(input("Enter the task number to mark as completed: ")) - 1
+            todo_list.mark_completed(task_index)
+            print("Task marked as completed!")
 
 
        
