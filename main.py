@@ -20,7 +20,8 @@ class ToDoList:
         headers = ["#", "Status", "Task"]
         print(tabulate(task_data, headers=headers, tablefmt="rounded_grid"))
 
-
+def main():
+    todo_list = ToDoList()
 
    
 
