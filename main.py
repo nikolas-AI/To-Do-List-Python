@@ -31,7 +31,8 @@ def main():
             ["4", "Exit"]
         ]
 
-      
+        headers = ["Option", "Description"]
+        print(tabulate(options_data, headers=headers, tablefmt="rounded_grid"))
 
      
 
