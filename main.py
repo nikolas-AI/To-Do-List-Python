@@ -54,6 +54,7 @@ def main():
             print("Goodbye!")
             break
 
-       
+        else:
+            print("Invalid choice. Please select a valid option.")
 
 
