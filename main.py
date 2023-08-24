@@ -17,7 +17,8 @@ class ToDoList:
             status = "✓" if task["completed"] else " "
             task_data.append([index + 1, status, task['task']])
 
-        
+        headers = ["#", "Status", "Task"]
+        print(tabulate(task_data, headers=headers, tablefmt="rounded_grid"))
 
 
 
