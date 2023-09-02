@@ -1,4 +1,4 @@
-# Project Shocase: Building a To-Do List in Python
+# Project Showcase: Building a To-Do List in Python
 
 
 
