@@ -31,6 +31,7 @@ During development, we encountered a few challenges:
 
 ## Lessons Learned
 
+Through this project, we learned:
 
 
 
