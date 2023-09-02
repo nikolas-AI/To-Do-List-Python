@@ -20,7 +20,7 @@ In the project, we implemented the functionality to add tasks to our To-Do List.
 Users can mark a task as completed. The task's status changes from '✓' to ' ' (blank) to indicate completion.
 
 **3. Show Tasks:**
-The application also allows users to view their tasks. The tasks are displayed in a  format  the `` module,  the  .
+The application also allows users to view their tasks. The tasks are displayed in a tabulated format  the `` module,  the  .
 
 ##  
 
