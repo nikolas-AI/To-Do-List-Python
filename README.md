@@ -33,7 +33,7 @@ During development, we encountered a few challenges:
 
 Through this project, we learned:
 
-- How to organize code using 
+- How to organize code using classes and methods for better readability.
 
 
 
