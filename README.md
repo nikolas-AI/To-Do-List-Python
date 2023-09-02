@@ -24,7 +24,7 @@ The application also allows users to view their tasks. The tasks are displayed i
 
 ## Challenges Faced
 
-During development, we encountered a few :
+During development, we encountered a few challenges:
 
 
 
