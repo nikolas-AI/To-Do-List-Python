@@ -19,6 +19,7 @@ In the project, we implemented the functionality to add tasks to our To-Do List.
 **2. Mark Task as Completed:**
 Users can mark a task as completed. The task's status changes from '✓' to ' ' (blank) to indicate completion.
 
+**3. Show Tasks:**
   
 
 
