@@ -1,6 +1,6 @@
 # Project Showcase: Building a To-Do List in Python
 
-🌟 Welcome to another project !
+🌟 Welcome to another project showcase!
 
 
 
