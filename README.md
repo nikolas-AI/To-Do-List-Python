@@ -1,4 +1,4 @@
-# Project : Building a To-Do List in 
+# Project Shocase: Building a To-Do List in 
 
 
 
