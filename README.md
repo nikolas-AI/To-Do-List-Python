@@ -17,6 +17,7 @@ Our goal with this project is to build a command-line To-Do List application tha
 In the project, we implemented the functionality to add tasks to our To-Do List. Users can input a task description, and it will be added to the list.
 
 **2. Mark Task as Completed:**
+Users can mark a task as completed. The task's status changes from '✓' to ' ' (blank) to indicate completion.
 
   
 
