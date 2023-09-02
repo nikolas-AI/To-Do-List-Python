@@ -22,9 +22,9 @@ Users can mark a task as completed. The task's status changes from '✓' to ' ' 
 **3. Show Tasks:**
 The application also allows users to view their tasks. The tasks are displayed in a tabulated format using the `tabulate` module, enhancing the user experience.
 
-##  Faced
+## Challenges Faced
 
- , we  a few :
+During development, we encountered a few :
 
 
 
