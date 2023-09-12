@@ -48,4 +48,4 @@ While our To-Do List is functional, there's always room for improvement! Here ar
 ## Conclusion
 
 🎉 And there you have it! A simple To-Do List application built using Python. Whether you're a beginner or an experienced developer, this project demonstrates essential concepts in programming and user interaction.
-And do not forget to leave a star.
+And please do not forget to leave a star.
